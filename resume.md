@@ -7,10 +7,9 @@
   * Berlin Heights, Ohio 44814
 	
 ### School Address
-  * Wright Hall - KSU
-  * Tri-Towers Desk
-  * 1525 Leebrick Drive
-  * Kent, Ohio 44243
+  * College Towers Building B 263 E
+  * 1840 Rhodes Road
+  * Kent, Ohio 44240
   
 ### Objective
   * Obtain an entry level computer technology position at a programming company. 
