@@ -79,8 +79,4 @@
   
 ### Hobbies 
   * Programming, war3 modding, music listening and meditation
-  
-#### PS
-  * camelCaseAddict
-  * CONSTANT_DECLARATIONS
-  * ClassNamesLookGoodLikeThis
+ 
