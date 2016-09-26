@@ -37,7 +37,7 @@
 ### IDE
   * Visual Studio
     * C# WinForms
-	* C++ Commandline
+	* C++ command line
 	* Angular JS, HTML, Bootstrap
   * some XCode
   * little eclipse
