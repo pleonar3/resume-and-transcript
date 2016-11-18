@@ -16,7 +16,7 @@
 	
 ### Experience
 
-  * Work Experience
+#### Work Experience
     * Internship with Koyo Bearings – Designed multiple databases (MSSQL), Wrote access clients for each (C#)
   
   * Banking Internship - collateral tracking for loans
