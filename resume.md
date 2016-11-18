@@ -35,9 +35,7 @@
 
 #### High School - Edison High School (2009 - 2013)
   * 3.6 average GPA, College Prep.
-  * Ms Word, Excel, Publisher
-  * some HTML
-  
+
 #### College - Kent State University (2013 - Current)
   * Computer Science Major
   * Planned Graduation Spring 2017
