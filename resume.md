@@ -23,13 +23,11 @@
   
 #### Programming Languages
   * C# 
-  * MSSQL (internship, academic)
-  * html and css (academic)
-  * Javascript
-  * Bootstrap 
+  * MSSQL 
+  * html, css, and Bootstrap 
+  * Javascript and Angular JS
   * C++ 
   * Java 
-  * markdown 
 	
 ## Education
 
