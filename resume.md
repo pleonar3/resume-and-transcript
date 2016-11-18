@@ -11,7 +11,7 @@
   * 1840 Rhodes Road
   * Kent, Ohio 44240
   
-#### Objective
+## Objective
   * Obtain an entry level computer technology position at a software company. 
 	
 ## Experience
