@@ -11,17 +11,15 @@
   * 1840 Rhodes Road
   * Kent, Ohio 44240
   
-### Objective
+#### Objective
   * Obtain an entry level computer technology position at a software company. 
 	
-### Experience
-
-#### Work Experience
-    * Internship with Koyo Bearings – Designed multiple databases (MSSQL), Wrote access clients for each (C#)
-  
-  * Banking Internship - collateral tracking for loans
+## Experience
+  * Internship with Koyo Bearings – Designed multiple databases (MSSQL), Wrote access clients for each (C#)
   
   * Capstone Project - Webapp with Css, Html, Angular JS
+  
+  * Banking Internship - collateral tracking for loans
   
 #### Programming Languages
   * C# 
@@ -33,7 +31,7 @@
   * Java 
   * markdown 
 	
-### Education
+## Education
 
 #### High School - Edison High School (2009 - 2013)
   * 3.6 average GPA, College Prep.
