@@ -19,8 +19,6 @@
   
   * Capstone Project - Webapp with Css, Html, Angular JS
   
-  * Banking Internship - collateral tracking for loans
-  
 #### Programming Languages
   * C# 
   * MSSQL 
