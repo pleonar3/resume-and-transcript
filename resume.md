@@ -26,8 +26,7 @@
   * MSSQL 
   * html, css, and Bootstrap 
   * Javascript and Angular JS
-  * C++ 
-  * Java 
+  * PHP
 	
 ## Education
 
